@@ -26,9 +26,10 @@ Create a Roboadvisor who advises on recommended investment, and is able to have 
 
 
 *Videos1 https://drive.google.com/file/d/1552mCNbN6vLoVcFeAcmlZum6ioxsRPev/view?usp=share_link
-Summary eval , and video2 https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link*
-![https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link](https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link)
-![https://drive.google.com/file/d/1552mCNbN6vLoVcFeAcmlZum6ioxsRPev/view?usp=share_link](https://drive.google.com/file/d/1552mCNbN6vLoVcFeAcmlZum6ioxsRPev/view?usp=share_link)
+
+
+video2 https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link*
+
 ---
 ## Summary evaluation
 Roboadvisor is able to have simple dialogue which results in investments advice depending on risk appetite of user.
