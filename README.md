@@ -25,7 +25,8 @@ Create a Roboadvisor who advises on recommended investment, and is able to have 
 * Step 3: Enhance the robo advisor with an Amazon Lambda function
 
 
-*Videos1, and video2*
+*Videos1 https://drive.google.com/file/d/1552mCNbN6vLoVcFeAcmlZum6ioxsRPev/view?usp=share_link
+Summary eval , and video2 https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link*
 ![https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link](https://drive.google.com/file/d/15CwWuc8Fi1qsAtVs7QrU0w2ery2oG8ro/view?usp=share_link)
 ![https://drive.google.com/file/d/1552mCNbN6vLoVcFeAcmlZum6ioxsRPev/view?usp=share_link](https://drive.google.com/file/d/1552mCNbN6vLoVcFeAcmlZum6ioxsRPev/view?usp=share_link)
 ---
